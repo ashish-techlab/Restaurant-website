@@ -37,7 +37,7 @@
         }
 
         .hero {
-            height: 90vh;
+            height: 30vh;
             background: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836') no-repeat center center/cover;
             display: flex;
             justify-content: center;
@@ -151,3 +151,4 @@
                 font-size: 32px;
             }
         }
+
